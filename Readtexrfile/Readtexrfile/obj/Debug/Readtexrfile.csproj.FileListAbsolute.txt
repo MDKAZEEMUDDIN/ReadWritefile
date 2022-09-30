@@ -1,0 +1,8 @@
+C:\ReadWriteFile\Readtexrfile\Readtexrfile\bin\Debug\Readtexrfile.exe
+C:\ReadWriteFile\Readtexrfile\Readtexrfile\bin\Debug\Readtexrfile.exe.config
+C:\ReadWriteFile\Readtexrfile\Readtexrfile\obj\Debug\Readtexrfile.csproj.AssemblyReference.cache
+C:\ReadWriteFile\Readtexrfile\Readtexrfile\obj\Debug\Readtexrfile.csproj.SuggestedBindingRedirects.cache
+C:\ReadWriteFile\Readtexrfile\Readtexrfile\obj\Debug\Readtexrfile.csproj.CoreCompileInputs.cache
+C:\ReadWriteFile\Readtexrfile\Readtexrfile\obj\Debug\Readtexrfile.exe
+C:\ReadWriteFile\Readtexrfile\Readtexrfile\obj\Debug\Readtexrfile.pdb
+C:\ReadWriteFile\Readtexrfile\Readtexrfile\bin\Debug\Readtexrfile.pdb
